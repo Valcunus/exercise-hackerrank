@@ -4,8 +4,8 @@
   "description": "Projeto Itau Teste",
   "main": "index.js",
   "scripts": {
-    "start": "node projeto-itau.js",
-    "exercicio2": "node projeto-itau-2.js",
+    "start": "node exercicio.js",
+    "exercicio2": "node exercicio2.js",
     "test": "index.js"
   },
   "repository": {
